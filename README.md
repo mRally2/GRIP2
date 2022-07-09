@@ -4,7 +4,7 @@
    <hr>
    <p>Drag and drop components that replace vanilla vehicle handling parameters in order to give a much more pleasant driving experience.</p>
    <p><br></p>
-   <p><br><br><strong>EXTRAS</strong></p>
+   <strong>EXTRAS</strong></p>
    <hr>
    <ul>
       <li>Here’s an overview of how the vehicles handle after custom setups have been applied: <a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXXgqIyIL7sLi3clJKr58_66"><em>Grip Demo Showcases</em></a></li>
