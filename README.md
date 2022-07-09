@@ -2,49 +2,8 @@
 <div class="rich-text">
    <p><strong>DESCRIPTION</strong></p>
    <hr>
-   <p>Drag and drop components that replace vanilla vehicle handling parameters in order to give a much more pleasant driving experience. All vehicles contained in this pack are:</p>
+   <p>Drag and drop components that replace vanilla vehicle handling parameters in order to give a much more pleasant driving experience.</p>
    <p><br></p>
-   <p><code>z28 -&nbsp;Chevrolet Camaro Z28<br></code></p>
-   <p><code>mac -&nbsp;Ford Mustang Mach 1 Twister Special<br></code></p>
-   <p><code>crt -&nbsp;Dodge Charger R/T <br></code></p>
-   <p><code>foc - Ford Focus ST</code></p>
-   <p><code>b1m - BMW 1 Series M Coupé </code></p>
-   <p><code>e30 - BMW E30 Sport Evo</code></p>
-   <p><code>190 - Mercedes-Benz 190E 2.5-16 Evolution II</code></p>
-   <p><code>giu - Alfa Romeo Giulietta Quadrifoglio Verde</code></p>
-   <p><code>gol - Volkswagen Golf R&nbsp;</code></p>
-   <p><code>s15 -&nbsp;Nissan Silvia Spec-R Aero S15 <br></code></p>
-   <p><code>bos -&nbsp;Ford Mustang Boss 302<br></code></p>
-   <p><code>bm3 -&nbsp;BMW M3 Coupé<br></code></p>
-   <p><code>c63 -&nbsp;Mercedes-Benz C63 AMG <br></code></p>
-   <p><code>sky - Nissan Nismo R34 GT-R Z-Tune</code></p>
-   <p><code>css - Chevrolet Camaro SS</code></p>
-   <p><code>crz - Chevrolet Cruze Touring Car</code></p>
-   <p><code>320 - BMW 320 Touring Car</code></p>
-   <p><code>37r - Nissan 370Z Roadster</code></p>
-   <p><code>cha - Dodge Challenger SRT8 392</code></p>
-   <p><code>ttr - Audi TT RS Roadster</code></p>
-   <p><code>r3b -&nbsp;Nissan Skyline GT-R Group A (R32)<br></code></p>
-   <p><code>gtr - Nissan GT-R Spec V (Inherits config from r3b)<br></code></p>
-   <p><code>rx2 -&nbsp;Mazda RX-7 PANSPEED<br></code></p>
-   <p><code>civ - 5ZIGEN Honda Civic Super Modified<br></code></p>
-   <p><code>utf - Ford Racing UTE</code></p>
-   <p><code>bac - BAC Mono </code></p>
-   <p><code>ato - Ariel Atom 3 </code></p>
-   <p><code>s60 - Volvo S60 BTCS&nbsp;</code></p>
-   <p><code>vip -&nbsp;SRT Viper GTS <br></code></p>
-   <p><code>mp4 -&nbsp;McLaren MP4-12C <br></code></p>
-   <p><code>mpg - McLaren MP4-12C GT3 (Inherits config from mp4)<br></code></p>
-   <p><code>xkr -&nbsp;Jaguar XKR-S<br></code></p>
-   <p><code>zag -&nbsp;Aston Martin V12 Zagato <br></code></p>
-   <p><code>van -&nbsp;Aston Martin Vanquish <br></code></p>
-   <p><code>177 -&nbsp;Aston Martin One-77<br></code></p>
-   <p><code>mf1 - McLaren F1 GT<br></code></p>
-   <p><code>slr -&nbsp;Mercedes-Benz SLR McLaren 722<br></code></p>
-   <p><code>722 - Mercedes-Benz SLR McLaren 722 GT&nbsp;(Inherits config from slr)<br></code></p>
-   <p><code>pag -&nbsp;Pagani Huayra<br></code></p>
-   <p><code>r8l - Audi R8 LMS Ultra</code></p>
-   <p><code>zig - Aston Martin V12 Zagato (N24)</code></p>
    <p><br><br><strong>EXTRAS</strong></p>
    <hr>
    <ul>
@@ -55,7 +14,7 @@
    <p><strong>FEATURES</strong></p>
    <hr>
    <ul>
-      <li>Provides vehicles a natural feel by employing setups tweaked for a grip based model</li>
+      <li>Provides 74 vehicles a natural feel by making use of setups tweaked for grip racing</li>
    </ul>
    <p><br></p>
    <p><strong>USE</strong></p>
