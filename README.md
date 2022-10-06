@@ -38,7 +38,7 @@
    <ul>
       <li>This mod’s still under development. Future revisions featuring new vehicles or handling fixes are planned</li>
       <li>The game will not save your progress when using the configs</li>
-      <li>The configs of some vehicles are shared they use the same file and apply new values inside the game’s internal database</li>
+      <li>The configs of some vehicles are shared therefore they get similar tunes applied. They are not missing!</li>
       <li>The custom input config is recommended for better grip feel</li>
       <li>Some vehicles still have drifting behaviour which upgrading them might solve the issue</li>
       <li>I am not responsible for any damage caused to your system by this tool so use it at your own risk</li>
