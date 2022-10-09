@@ -20,13 +20,13 @@
    <p><strong>USE</strong></p>
    <hr>
    <ul>
-      <li>Copy and paste all the content inside Mod into grid2/cars/models to apply the configs</li>
+      <li>Method 1: Copy and paste all the content inside Mod into grid2/cars/models to apply the configs. This will not save your game progress</li>
+      <li>Method 2: Use the game’s mod interface implemented by Codemasters which provides saving your game progress. For more info check the Issues tab</li>
    </ul>
    <p><br></p>
    <p><strong>KNOWN ISSUES</strong></p>
    <hr>
    <ul>
-      <li>The game will not save your progress if you patch the files directly into the grid2/cars/models folder. Check the Issues tab here for an alternative</li>
       <li>Tendency of feeling on rails when cornering at low speeds</li>
       <li>Some vehicles lose total control without the possibility of recovery from unexpected rear traction loss not forced by the use of the handbrake</li>
       <li>Understeer might be enhanced by the nature of how the setups are made</li>
