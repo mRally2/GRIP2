@@ -7,8 +7,8 @@
    <strong>EXTRAS</strong></p>
    <hr>
    <ul>
-      <li>Here’s an overview of how the vehicles handle after custom setups have been applied: <a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXXgqIyIL7sLi3clJKr58_66"><em>Grip Demo Showcases</em></a></li>
       <li>Here’s a custom input config for KB that works really well with the new setups: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/l5xAWTYT#RlaZ3IoRzIsHvMFDo2XjH-2ZKWeqKw7jElml2jczICQ"><em>Custom Input Config</em></a><br></li>
+      <li>Here’s an overview of how the vehicles handle after custom setups have been applied: <a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXXgqIyIL7sLi3clJKr58_66"><em>Grip Demo Showcases</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>FEATURES</strong></p>
@@ -21,13 +21,12 @@
    <hr>
    <ul>
       <li>Copy and paste all the content inside Mod into grid2/cars/models to apply the configs</li>
-      <li>To revert them back to vanilla use Steam to verify your files</li>
-      <li>For DLC exclusive vehicles you might have to delete the folders manually</li>
    </ul>
    <p><br></p>
    <p><strong>KNOWN ISSUES</strong></p>
    <hr>
    <ul>
+      <li>The game will not save your progress if you patch the files directly into the grid2/cars/models folder. Check the Issues tab here for an alternative</li>
       <li>Tendency of feeling on rails when cornering at low speeds</li>
       <li>Some vehicles lose total control without the possibility of recovery from unexpected rear traction loss not forced by the use of the handbrake</li>
       <li>Understeer might be enhanced by the nature of how the setups are made</li>
@@ -37,7 +36,7 @@
    <hr>
    <ul>
       <li>This mod’s still under development. Future revisions featuring new vehicles or handling fixes are planned</li>
-      <li>The game will not save your progress when using the configs</li>
+      <li>To revert back to vanilla use Steam to verify your files. For DLC exclusive vehicles you might have to delete the folders manually</li>
       <li>The configs of some vehicles are shared therefore they get similar tunes applied. They are not missing!</li>
       <li>The custom input config is recommended for better grip feel</li>
       <li>Some vehicles still have drifting behaviour which upgrading them might solve the issue</li>
